@@ -1,3 +1,4 @@
+![Image Description](cover.png)
 # RentApp
 ## Progress: Working ON
 
