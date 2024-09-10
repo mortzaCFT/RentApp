@@ -1,4 +1,4 @@
-![Image Description](cover.png)
+![Image Description](cove.png)
 # RentApp
 ## Progress: Working ON
 
