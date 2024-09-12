@@ -1,7 +1,6 @@
 ![Image Description](_cover.png)
 # RentApp
-## Progress: The end.
-
+## Progress: Completed
 
 
 An RentApp in dart/flutter with a Recived Figma design.
