@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:carousel_slider_plus/carousel_slider_plus.dart';
-import 'package:flutter/widgets.dart';
 import 'package:rentapp/data/data.dart';
 import 'package:get/get.dart';
 import 'InfoScreen.dart';
